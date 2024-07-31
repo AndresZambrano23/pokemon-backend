@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "command": "npm start",
+      "name": "backend",
+      "request": "launch",
+      "type": "node-terminal",
+      "env": {
+        "POKEMON_URL": "https://pokeapi.co/api/v2"
+      }
+    }
+  ]
+}
